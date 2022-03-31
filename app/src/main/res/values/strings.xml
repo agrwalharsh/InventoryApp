@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_a_product">Add a Product!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="clear_all">CLEAR ALL</string>
+    />
+</resources>
