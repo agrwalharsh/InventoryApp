@@ -18,7 +18,7 @@ abstract class ProductDataBase : RoomDatabase() {
                         context.applicationContext,
                         ProductDataBase::class.java,
                         "productDB"
-                    ).allowMainThreadQueries().build()
+                    ).build()
                 }
             }
             return INSTANCE!!
